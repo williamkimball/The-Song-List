@@ -1,0 +1,22 @@
+#song-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.song {
+    border: solid 2px black;
+    border-radius: 25px;
+    margin-bottom: 2%;
+    padding: 1%;
+    padding-bottom: 2%;
+    background-color: #FE5F55;
+    width: 400px;
+    max-width: 400px;
+
+}
+
+body {
+    background-color: #577399;
+    justify-content: center;
+}
